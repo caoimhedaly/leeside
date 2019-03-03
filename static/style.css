@@ -1,0 +1,63 @@
+hr{
+     border: 1.5px solid black;
+}
+
+body{
+    background: url("/static/background.png")center center fixed;
+     background-repeat: no-repeat;
+      -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    
+}
+
+
+html{
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 3px;
+     
+    
+}
+
+nav{
+    letter-spacing: 3px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.subtitle2, .navbar-brand, .subtitle, .blue{
+    font-weight: 200;
+}
+
+p{
+    margin: 0px;
+}
+
+.row{
+    margin-left: 5px;
+    
+}
+
+.subtitle{
+    margin-top: 50px;
+}
+
+.navbar-brand{
+    margin-bottom: 0px;
+    
+}
+
+.navbar{
+    padding-bottom: 0px;
+}
+
+h1{
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+
+
+.address{
+    margin-top: 50px;
+}
